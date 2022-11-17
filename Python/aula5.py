@@ -4,13 +4,13 @@ METODOS Dentro de Strings - Alterar o texto dentro das strings.
 '''
 mensagem = 'eu adoro comer COMIDA caseira.'
 
-# texto 100% em string, como foi digitada:
+# Texto 100% em string, como foi digitada:
 print(mensagem)
 
-# agora vamos upor que queremos que fique tudo em caixa alta:
+# Agora vamos upor que queremos que fique tudo em caixa alta:
 print(mensagem.upper())
 
-# agora vamos upor que queremos tudo em caixa baixa:
+# Agora vamos upor que queremos tudo em caixa baixa:
 print(mensagem.lower())
 
 # Todas as letras iniciais de cada palavra em maiúscula:
