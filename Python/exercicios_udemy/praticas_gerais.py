@@ -32,3 +32,14 @@ def limpeza2():
 print(frutas2())
 print()
 print(limpeza2())
+
+
+
+def type_unicode(text):
+    import pyautogui
+    import pyperclip
+    pyperclip.copy(text)
+    pyautogui.hotkey("ctrl", "v")
+
+
+type_unicode("cd programação")
