@@ -21,3 +21,26 @@ c) a área do trapézio que tem bases A e B, e altura C
             AREA DO TRIANGULO = 28.6983
             AREA DO TRAPEZIO = 90.4121 
 '''
+
+medida_a = float(input('Qual a medida do lado "A"? '))
+medida_b = float(input('Qual a medida do lado "B"? '))
+medida_c = float(input('Qual a medida do lado "C"? '))
+
+def quadrado():
+        area = medida_a * medida_a
+        print(f'AREA DO QUADRADO = %.4f' % (area))
+
+        
+def triangulo():
+        area = medida_a * medida_b / 2
+        print(f'AREA DO TRIANGULO = %.4f' % (area))
+
+
+def trapezio():
+        area = 0.5 * medida_c * (medida_a + medida_b)
+        print(f'AREA DO TRAPEZIO = %.4f' % (area))
+
+
+quadrado()
+triangulo()
+trapezio()
