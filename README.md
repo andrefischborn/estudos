@@ -1,2 +1,2 @@
 # Estudos
-Estudos de programação no geral.
+Aqui é um diretório onde apresentarei todos os meus estudos iniciais na área da programação.

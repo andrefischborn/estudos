@@ -19,7 +19,7 @@ conforme exemplo. Se a equação não possuir raízes reais, mostrar uma mensage
         Coeficiente a: 1
         Coeficiente b: 3
         Coeficiente c: 4
-        Esta equacao nao possui raizes reais 
+        Esta equacao nao possui raizes reais
 '''
 
 a = float(input('Qual o número do coeficiente A? '))
@@ -30,11 +30,11 @@ delta = (b ** 2) - 4 * a * c
 
 
 if a == 0:
-    print("O valor de a, deve ser diferente de 0")
+    print('O valor de a, deve ser diferente de 0')
 elif delta < 0:
-    print("Sem raízes reais")
+    print('Sem raízes reais')
 else:
     x1 = (-b + delta ** (1 / 2)) / (2 * a)
     x2 = (-b - delta ** (1 / 2)) / (2 * a)
 
-    print("x1: {}, x2: {}".format(x1, x2))
+    print((f'X1: %.4f' % (x1)),(f'X2: %.4f') % (x2))

@@ -19,8 +19,8 @@ nota2 = float(input('Qual a segunda nota? '))
 media_final = (nota1 + nota2)
 
 def media():
-    if (media_final >= 60.0):
-        print(f'NOTA FINAL %.2f' % (media_final))
+    if media_final >= 60.0:
+        print(f'NOTA FINAL %.2f' % (media_final))   
         print('APROVADO!')
     else:
         print(f'NOTA FINAL %.2f' % (media_final))
