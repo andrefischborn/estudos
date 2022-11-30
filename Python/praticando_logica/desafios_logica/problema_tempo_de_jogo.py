@@ -16,3 +16,10 @@ horas.
         Hora final: 16
         O JOGO DUROU 14 HORA(S)
 '''
+hora_inicial = int(input(f'Que horas iniciou o jogo? '))
+hora_final = int(input(f'Que horas terminou o jogo? '))
+
+if hora_final > hora_inicial:
+    print(hora_final - hora_inicial)
+else:
+    print((24 - hora_inicial) + (hora_final))
