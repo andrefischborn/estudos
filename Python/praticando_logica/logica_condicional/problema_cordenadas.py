@@ -26,8 +26,9 @@ mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva
         Valor de Y: 0
         Eixo X
 '''
-x = float(input('Digite o valor de X: '))
-y = float(input('Digite o valor de Y: '))
+print(f'Digite o valor de X e Y:')
+x = float(input())
+y = float(input())
 
 if x == 0 and y == 0:
     print('Origem')
