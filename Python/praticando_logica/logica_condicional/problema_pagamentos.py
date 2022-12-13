@@ -21,6 +21,6 @@ horas_trabalhadas = int(input(f'Quantas horas {nome} trabalhou? '))
 pagamento = valor_hora * horas_trabalhadas
 
 print(f'Nome: {nome}')
-print(f'Valor por hora: R$ %.2f' % (valor_hora))
+print(f'Valor por hora: R$ {valor_hora:.2f}')
 print(f'Horas trabalhadas: {horas_trabalhadas} horas.')
-print(f'O pagamento para {nome} deve ser R$ %.2f' % (pagamento))
+print(f'O pagamento para {nome} deve ser R$ {pagamento:.2f}')

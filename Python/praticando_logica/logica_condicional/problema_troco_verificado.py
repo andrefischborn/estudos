@@ -24,6 +24,6 @@ troco = dinheiro_pago - valor_total
 falta = valor_total - dinheiro_pago
 
 if dinheiro_pago < valor_total:
-    print(f'DINHEIRO INSUFICIENTE. FALTAM %.2f' % (falta), 'REAIS.')
+    print(f'DINHEIRO INSUFICIENTE. FALTAM R$ {falta:.2f} REAIS.')
 else:
-    print(f'TROCO: %.2f' % (troco), 'REAIS.')
+    print(f'TROCO: R$ {troco:.2f} REAIS.')

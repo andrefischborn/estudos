@@ -45,6 +45,6 @@ diferenca = salario * x
 novo_salario = salario + diferenca
 aumento = novo_salario - salario
 
-print(f'Novo salário: R$ %.2f' % (novo_salario))
-print(f'Aumento de: %.2f' % (aumento))
+print(f'Novo salário: R$ {novo_salario:.2f}')
+print(f'Aumento de: {aumento:.2f}')
 print(f'Porcentagem: {porcentagem}')

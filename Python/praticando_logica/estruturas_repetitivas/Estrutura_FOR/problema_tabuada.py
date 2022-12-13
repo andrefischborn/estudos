@@ -14,8 +14,8 @@ Exemplo:
         4 x 9 = 36
         4 x 10 = 40 
 '''
-numero = int(input('Deseja a tabuada para qual valor? '))
+fator = int(input('Deseja a tabuada para qual valor? '))
 
-for i in range(1, 11):
-    produto = numero * i
-    print(f'{numero} x {i} = {produto}')
+for fator_fixo in range(1, 11):
+    produto = fator * fator_fixo    # A ordem dos fatores não altera o produto. ;)
+    print(f'{fator_fixo} x {fator} = {produto}')

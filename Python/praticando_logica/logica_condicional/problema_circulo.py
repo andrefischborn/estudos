@@ -16,4 +16,4 @@ diretamente o valor 3.14159.
 r = float(input(f'Qual o valor do raio do circulo? '))
 area = (math.pi) * (r*r)
 
-print(f'AREA: %.3f' % (area))
+print(f'AREA: {area:.2f}')

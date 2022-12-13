@@ -21,7 +21,7 @@ if consumo <= 100:
         f'Total de minutos utilizados: {consumo}min. Sua conta atual é de: 50.00 reais')
 else:
     print(
-        f'A sua franquia excedeu os minutos contratatos em: {minutos_extra}min. Você pagará extra: %.2f' % (valor_extra),  'reais.')
+        f'A sua franquia excedeu os minutos contratatos em: {minutos_extra} min. Você pagará extra: {valor_extra:.2f} reais.')
     print()
     print(
-        f'Total de minutos utilizados: {consumo}min. Sua conta atual é de: %.2f' % (valor_total), 'reais.')
+        f'Total de minutos utilizados: {consumo} min. Sua conta atual é de: R$ {valor_total:.2f} reais.')

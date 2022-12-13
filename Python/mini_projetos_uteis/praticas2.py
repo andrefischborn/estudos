@@ -1,3 +1,4 @@
-l = list("1234")
-l[0] = l[1] = 5
-print(l)
+teste2 = 100 ** 2
+for i in range(teste2):
+    teste2 = teste2 + 1
+    print(i)

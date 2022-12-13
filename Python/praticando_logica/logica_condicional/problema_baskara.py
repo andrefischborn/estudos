@@ -37,4 +37,4 @@ else:
     x1 = (-b + delta ** (1 / 2)) / (2 * a)
     x2 = (-b - delta ** (1 / 2)) / (2 * a)
 
-    print((f'X1: %.4f' % (x1)),(f'X2: %.4f') % (x2))
+    print(f'X1: {x1:.2f}, X2: {x2:.2f}')

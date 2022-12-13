@@ -29,5 +29,5 @@ valor_metro = float(input('Qual o valor do metro quadrado? '))
 area = (largura * comprimento)
 preco_terreno = (area * valor_metro)
 
-print(f'A area do terreno é de: %.2fm²' % (area))
-print(f'O valor do terreno é R$ %.2f' % (preco_terreno))
+print(f'A area do terreno é de: {area:.2f}')
+print(f'O valor do terreno é R$ {preco_terreno:.2f}')

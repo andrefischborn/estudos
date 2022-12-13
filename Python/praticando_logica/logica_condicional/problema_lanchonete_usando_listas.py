@@ -20,8 +20,15 @@ tabela de produtos ao lado.
         Quantidade comprada: 2
         Valor a pagar: R$ 17.80 
 '''
+
 precos = [0, 5.0, 3.5, 4.8, 8.9, 7.32]
-codigo = int(input('Qual o código do produto? '))
+print(f'Código 1 = R$ {precos[1]:.2f}')
+print(f'Código 2 = R$ {precos[2]:.2f}')
+print(f'Código 3 = R$ {precos[3]:.2f}')
+print(f'Código 4 = R$ {precos[4]:.2f}')
+print(f'Código 5 = R$ {precos[5]:.2f}')
+
+codigo = int(input('Qual o código do produto desejado? '))
 
 if (codigo > 5) or (codigo == 0):
     print('Código Invalido.')
@@ -33,4 +40,4 @@ total = quantidade * precos[codigo]
 
 print(f'Código do produto comprado: {codigo}')
 print(f'Quantidade comprada: {quantidade}')
-print(f'Valor a pagar: R$ %.2f' % (total))
+print(f'Valor a pagar: R$ {total:.2f}')

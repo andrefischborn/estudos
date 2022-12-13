@@ -27,4 +27,4 @@ while nota2 < 0 or nota2 > 10:
 
 media = (nota1 + nota2) /2
 
-print(f'MÉDIA: %.2f' % (media))
+print(f'MÉDIA: {media:.2f}')

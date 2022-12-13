@@ -27,14 +27,14 @@ def celsius():
     print(f'Você escolheu converter a temperatura de Celsius para Fahrenheit.')
     temperatura = float(input('Digite a temperatura em Celsius: '))
     convertida = float(temperatura * (9 / 5) + 32.0)
-    print(f'Temperatura equivalente em Fahrenheit: %.2f' % (convertida))
+    print(f'Temperatura equivalente em Fahrenheit: {convertida:.2f}')
 
 
 def fahrenheit():
     print(f'Você escolheu converter a temperatura de Fahrenheit para Celsius.')
     temperatura = float(input('Digite a temperatura em Fahrenheit: '))
     convertida = float((temperatura - 32.0) * (5 / 9))
-    print(f'Temperatura equivalente em Celsius: %.2f' % (convertida))
+    print(f'Temperatura equivalente em Celsius: {convertida:.2f}')
 
 
 if tipo == 'C':

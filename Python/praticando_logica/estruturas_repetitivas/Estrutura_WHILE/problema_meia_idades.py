@@ -31,7 +31,7 @@ if cont == 0:
     print(f'IMPOSSÍVEL CALCULAR.')
 else:
     media = soma / cont
-    print(f'MÉDIA: %.2f' % (media))   
+    print(f'MÉDIA: {media:.2f}')   
 
 
 

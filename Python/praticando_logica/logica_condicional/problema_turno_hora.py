@@ -1,7 +1,7 @@
 '''
 Brincando com IF/ELSE/ELIF
 '''
-hora = int(input('Qual o valor de hora? '))
+hora = int(input('Que horas são? '))
 
 
 def turno():

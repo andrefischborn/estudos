@@ -13,11 +13,9 @@ Exemplo:
     SOMA = 11
 '''
 
-numero = int(input('Quantos números serão digitados? '))
-acumulo = 0
+N = int(input(f'Quantos números serão digitados? '))
 soma = 0
-for i in range(numero):
-    num1 = int(input('Digite um número: '))
-    acumulo = acumulo + 1
+for i in range(0, N):
+    num1 = int(input(f'Digite um número: '))
     soma = soma + num1
 print(f'SOMA: {soma}')

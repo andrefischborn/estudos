@@ -16,4 +16,4 @@ distancia = int(input(f'Qual a distância percorrida? '))
 combustivel_gasto = float(input('Quanto de combustível foi gasto? '))
 consumo_medio = distancia /  combustivel_gasto
 
-print(f'O consumo médio de combustível foi: %.3fL' % (consumo_medio))
+print(f'O consumo médio de combustível foi: {consumo_medio:.3f}')

@@ -20,10 +20,10 @@ media_final = (nota1 + nota2)
 
 def media():
     if media_final >= 60.0:
-        print(f'NOTA FINAL %.2f' % (media_final))   
+        print(f'NOTA FINAL {media_final:.2f}')   
         print('APROVADO!')
     else:
-        print(f'NOTA FINAL %.2f' % (media_final))
+        print(f'NOTA FINAL {media_final:.2f}')
         print('REPROVADO!')
 
 
