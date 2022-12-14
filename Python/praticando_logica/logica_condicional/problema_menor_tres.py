@@ -18,17 +18,19 @@ números lidos. Em caso de empate, mostrar apenas uma vez.
         Terceiro valor: 9
         MENOR = 9 
 '''
-num1 = int(input('Qual o primeiro número? '))
-num2 = int(input('Qual o segundo número? '))
-num3 = int(input('Qual o terceiro número? '))
+a = int(input('Qual o primeiro número? '))
+b = int(input('Qual o segundo número? '))
+c = int(input('Qual o terceiro número? '))
 
-if (num1 <= num2) and (num1 <= num3):
-    menor = num1
-elif (num2 <= num3) and (num2 <= num3):
-    menor = num2
+if a < b and a < c:
+    menor = a
+elif b < c and b < c:
+    menor = b
+elif a == b == c:
+    menor = f'Nenhum, são todos iguais: {a}'
 else:
-    menor = num3
+    menor = c
 
 
-print(f'O menor número entre {num1}, {num2} e {num3} é:')
-print(menor)
+print(f'O menor número entre {a}, {b} e {c} é:')
+print(f' O menor número é: {menor}.')

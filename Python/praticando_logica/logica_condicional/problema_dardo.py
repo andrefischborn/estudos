@@ -21,8 +21,10 @@ dardo2 = float(input(f'Qual a distância do segundo dardo? '))
 dardo3 = float(input(f'Qual a distância do terceiro dardo? '))
 
 if (dardo1 > dardo2) and (dardo1 > dardo3):
-    print(f'Maior distância: {dardo1} ')
+    print(f'Maior distância = {dardo1} ')
 elif (dardo2 > dardo3) and (dardo2 > dardo1):
-    print(f'Maior distância: {dardo2} ')
+    print(f'Maior distância = {dardo2} ')
+elif (dardo1 == dardo2 == dardo3):
+    print(f'As distâncias são todas iguais = {dardo1}')
 else:
-    print(f'Maior distância: {dardo3} ')
+    print(f'Maior distância = {dardo3} ')

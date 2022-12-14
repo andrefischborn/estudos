@@ -1,6 +1,4 @@
-x = 3
-y = 0
+computador = ['Processador', 'Teclado', 'Mouse']
+for indice, valor in enumerate(computador):
+    print(f"Índice={indice} | Valor={valor}")
 
-for i in range (x-1):
-    print(f'{i}, {y}')
-    y = y + 5

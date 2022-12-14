@@ -10,9 +10,8 @@ h = float(input('Qual o tamanho da altura? ' ))
 
 area = b * h
 perimetro = 2 * (b+h)
-diagonal = math.hypot(h+b)
-diagonal2 = math.sqrt(diagonal)
+diagonal = math.sqrt(b ** 2 + h ** 2)
 
 print(f'O valor da area deste retângulo é de: {area:.4f}')
 print(f'O valor do perimetro deste retângulo é de: {perimetro:.4f}')
-print(f'O valor da diagonal deste retângulo é de: {diagonal2:.4f}')
+print(f'O valor da diagonal deste retângulo é de: {diagonal:.4f}')

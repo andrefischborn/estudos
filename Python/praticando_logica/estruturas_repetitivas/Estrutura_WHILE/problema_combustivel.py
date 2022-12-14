@@ -18,7 +18,7 @@ como as quantidades de cada combustível.
         Gasolina: 2
         Diesel: 0 
 '''
-print(f'Informe um código: 1.Álcool  2.Gasolina  3.Diesel  4.Fim.:')
+print(f'Informe um código: <1>Álcool  <2>Gasolina  <3>Diesel  <4>Fim.')
 codigo = int(input())
 
 alcool = 0
@@ -33,7 +33,7 @@ while codigo != 4:
         gasolina = gasolina + 1
     elif codigo == 3:
         diesel = diesel + 1
-    print(f'Informe um código: 1.Álcool  2.Gasolina  3.Diesel  4.Fim.:')
+    print(f'Informe um código: <1>Álcool  <2>Gasolina  <3>Diesel  <4>Fim.:')
     codigo = int(input())
     
 print(f'Muito Obrigado')   
