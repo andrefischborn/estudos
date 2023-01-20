@@ -1,5 +1,5 @@
 '''
-Calculo de Indice de Massa Corporal
+Faça uma calculadora de calculo de Indice de Massa Corporal (IMC).
 
 Menor que 18.5 - Magreza
 Entre 18.5 e 24.9 - Normal
