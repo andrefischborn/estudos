@@ -13,17 +13,18 @@ print(final2)
 
 
 # Usando uma forma mais enxuta
-numeros.extend(letras)
+numeros.extend(letras) # esse comando faz a mesma coisa do grupo acima, porém sem ter que criar uma nova variavel "final2"
 print(numeros)
 print()
 
 
-# Lista dentro de lista
+# Lista dentro de lista - MATRIZ
 # Aqui vemos: ["Index0"] com [Index0 e Index1] e ["Index1"]com [Index0 e Index1]:
 #index:          0                 1
 itens = [['Banana','Laranja'],['Cebola','Batata']] 
 # index      0       1          0       1
 
+print(itens)    # Aqui imprime tudo em linha.
 print(itens[0]) # Aqui imprime a lista "Index0"
 print(itens[1]) # Aqui imprime a lista "Index1"
 

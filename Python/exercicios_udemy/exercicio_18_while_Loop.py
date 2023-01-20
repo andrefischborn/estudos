@@ -20,6 +20,6 @@ No For Loop você diz quantos giros você quer. Quero 3... Quero 50... É coloca
 No while Loop é enquanto a condição existir. Pode se tornar infinito. Também é funcional quando não sabemos a quantidade que vai ser.
 
 For Loop = Faça 50 flexões por 50 dias.
-For White = Faça flexões até cansar, por 50 dias ou até morrer.
+For While = Faça flexões até cansar, por 50 dias ou até morrer.
 
 '''

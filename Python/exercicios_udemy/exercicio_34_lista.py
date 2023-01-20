@@ -1,3 +1,5 @@
+# VERIFICANDO ITENS DENTRO DA LISTA
+
 # Criando um código que verifica se um determinado item se encontra presente na lista.
 # Aqui também aprendemos a driblar o problema do Case Sensitive do python nas caixas de input.
 

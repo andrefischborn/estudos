@@ -41,7 +41,7 @@ print(item1)
 print(item2)
 print(outros)
 
-# OU 
+# OU fazendo um loop:
 
 for x in produtos:
     print(x)
