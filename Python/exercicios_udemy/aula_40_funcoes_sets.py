@@ -23,3 +23,8 @@ print(s1)
 # Também podemos usar este comando: Ele Também não duplica dados repetidos.
 s1.update([2, 9, 7, 8, 10, 9, 6]) # Não precisa colocar em ordem. Ele mesmo coloca.
 print(s1)
+
+s1.remove(4)    # Comando para remover um item que precisa ter na lista. Vai dar erro se não conter o item na lista.
+s1.discard(6)   # Comando que remove o item e não necessariamente ele precisa estar na lista.
+s1.discard(200) # Discard não dá erro quando o item não se encontra listado. É melhor que o remove.
+print(s1)
