@@ -2,7 +2,7 @@ from array import array
 '''
                             Trabalhando com ARRAYs (MATRIZES)
 Muito confundido com Lista e Tuples.
-Usamos Array quando a lista for MUITO grande e estamos temo problemas de performance. Ela tem as mesmas características, mutável...
+Usamos Array quando a lista for MUITO grande e estamos tendo problemas de performance. Ela tem a mesma característica: mutável...
 Arrays não são disponíveis default no python. Precisamos importar um módulo! 
 Usamos: 
             from array import array
