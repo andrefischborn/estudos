@@ -11,7 +11,7 @@ def multi(x):
     return x * 2
 
 
-lista2= map(multi, lista1)
+lista2 = map(multi, lista1)
 
 print(lista1)
 print(list(lista2)) # Se não colocar o "list", a impressão será um OBJETO:
