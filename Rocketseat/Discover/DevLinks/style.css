@@ -1,0 +1,169 @@
+* {
+  /*Esse elemento serve para "Resetar" o CSS e tirar os atributos que vem padrão e deixa feio no navegador*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text-color: white;
+  --bg-url: url(./assets/bg-mobile.jpg);
+  --stroke-color: rgba(255, 255, 255, 0.5);
+  --surface-color: rgba(255, 255, 255, 0.05);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --hightlight-color: rgba(255, 255, 255, 0.2);
+  --switch-bg-url: url(./assets/moon-stars.svg);
+}
+.light {
+  --text-color: black;
+  --bg-url: url(./assets/bg-mobile-light.jpg);
+  --stroke-color: rgba(0, 0, 0, 0.5);
+  --surface-color: rgba(0, 0, 0, 0.05);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --hightlight-color: rgba(0, 0, 0, 0.1);
+  --switch-bg-url: url(./assets/sun.svg);
+}
+body {
+  /* Essa é uma forma de fazer: 
+        background-image: url(./assets/bg-mobile.jpg); 
+        background-repeat: no-repeat; 
+        background-position: top center;
+        background-size: cover;
+
+          Essa forma fica mais detalhada, porém é menos produtiva
+
+        */
+
+  /*Essa é a forma enxuta de fazer, podemos colocar tudo em uma linha só: */
+  background: var(--bg-url) no-repeat top center/cover;
+}
+body * {
+  /* border: 1px solid red; Podemos deixar essa bordar até terminar o projeto e assim visualizar o tamanho de tudo*/
+  font-family: "Inter", sans-serif;
+  color: var(--text-color);
+}
+#container {
+  width: 360px;
+  margin: 56px auto 0px auto;
+  display: block;
+  padding: 0 24px;
+}
+/*o elemento pai manda no filho*/
+#profile {
+  text-align: center;
+  padding: 24px;
+}
+
+/*ELEMENTO FILHO DO #PROFILE:*/
+#profile img {
+  width: 112px;
+
+  /*elemento img tem o display inline por padrão, por isso funciona o align, se transformar em block deixa de funcionar, dai precisa usar margin*/
+  /*  margin: auto;
+      display: block;       esses foram desabilitados porque o elemento pai ja fez isso com o align
+  */
+  /*OU PODEMOS FAZER COM QUE UM ELEMENTO PADRAO INLINE COMO A IMG, SEJA CONSIDERADO TEXTO*/
+}
+#profile p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 8px;
+}
+
+/* Switch */
+#switch {
+  position: relative;
+  width: 64px;
+
+  margin: 4px auto;
+}
+#switch button {
+  width: 32px;
+  height: 32px;
+  background: white var(--switch-bg-url) no-repeat center;
+  border: 0;
+  border-radius: 50%;
+
+  /* alinhando os elementos absolutos*/
+  position: absolute;
+  transform: translateY(-50%);
+  top: 50%;
+  left: 0;
+  z-index: 1;
+}
+.light #switch button {
+  right: 0;
+  left: initial;
+}
+
+#switch span {
+  display: block;
+  width: 64px;
+  height: 24px;
+  background: var(--surface-color);
+  border: 1px solid var(--stroke-color);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 9999px;
+}
+
+/* LINKS - Lista*/
+
+ul {
+  list-style: none; /* este comando retira os pontinhos da lista */
+  display: flex; /*-comando que faz o elemento se encaixar uniformemente dentro dos limites do container */
+  flex-direction: column; /* -aqui eu faço esses elementos do flex ficarem em formato de coluna. Flex para linha (padrão) */
+  gap: 16px; /*-esse é um espaçamento entro os itens */
+  padding: 24px 0px;
+}
+ul li a {
+  display: flex;
+  justify-content: center; /* comando que alinha o conteudo */
+  padding: 16px 24px; /* comando de espaçamento */
+  align-items: center; /* comando de alinhamento */
+  background: var(--surface-color); /* mudar a cor de fundo */
+  border: 1px solid var(--stroke-color); /* colocar bordas */
+  border-radius: 8px; /* Serve para deixar as bordas arrendodadas */
+  backdrop-filter: blur(4px); /* Coloca um filtro com leve efeito de embaçado*/
+  -webkit-backdrop-filter: blur(
+    4px
+  ); /* repetimos o comando para funcionar em navegadores, melhorar a compatibilidade */
+  text-decoration: none; /* esse comando remove o sublinhado padrão dos links */
+  font-weight: 500; /* peso da fonte, acima de 500 é o bold, que é negrito */
+  transition: all 0.5s;
+}
+ul li a:hover {
+  /* o que acontece quando passa o mouse em cima */
+  background: var(--surface-color-hover);
+  border: 1.5px solid var(--text-color);
+}
+
+/* Socia links */
+
+#social-links {
+  display: flex;
+  padding: 24px 0px;
+  justify-content: center;
+  align-items: flex-start;
+  align-self: stretch;
+  font-size: 24px;
+}
+#social-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  transition: background 0.2s;
+  border-radius: 50%;
+}
+#social-links a:hover {
+  background: var(--hightlight-color);
+}
+
+/* rodapé */
+#footer {
+  padding: 24px 0px;
+  text-align: center;
+  font-size: 14px;
+}
