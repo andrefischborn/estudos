@@ -1,0 +1,59 @@
+/* ASSIM FAZEMOS COMENTÁRIOS NO CSS */
+
+
+/* ENTENDENDO O FUNCIONAMENTO DE SOBREPOSIÇÃO DE CASCATA */
+
+body {
+    background: red;
+}
+
+body {
+    background: green;
+}
+
+body {
+    background: rgb(250, 250, 255);    /* O ULTIMO SEMPRE SOBREPOE TODOS OS OUTROS IGUAIS */
+}
+
+/* ou mesmo se fizer assim: */
+
+body {
+    background: red;
+    background: green;
+    background: rgb(190, 184, 184); /* este ultimo que será considerado */
+}
+
+/* ENTENDENDO O CONCEITO DE ESPECIFICIDADE 
+
+    CADA SELETOR TEM UM PESO, E A SOMA DOS PESOS SERÁ LEVA EM CONTA PARA
+    QUE DETERMINADA DECLARÇÃO SEJA MAIS ESPECÍFICA
+
+*/
+
+#id {
+    /* peso 1,0,0 */
+}
+
+.class {
+    /* peso 0,1,0 */
+}
+
+element {
+    /* peso 0,0,1 */
+}
+
+/* ENTENDENDO NO PRÁTICA - FICARIA ASSIM: */
+
+p#unico-1 {
+    color: blue; /* este id tem peso 100, vai sobrepor a cor do elemento p. */
+}
+
+
+.classequalquer {
+    color: green; /* a classe também sobrepoe o elemento, porém perderia para o id */
+}
+
+
+p {
+    color: red;   /* esse elemento tem peso 0,0,1 */
+}
