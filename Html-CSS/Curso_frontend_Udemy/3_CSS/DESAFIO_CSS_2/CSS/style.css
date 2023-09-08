@@ -1,0 +1,19 @@
+#desafio {
+    width: 400px;
+    height: 300px;
+    border: 10px solid red;
+    outline: 10px solid black;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 10px;
+    background-color: aqua;
+    
+}
+
+.texto {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    text-align: center;
+}
