@@ -1,0 +1,207 @@
+body {
+    padding-bottom: 500px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 45px;
+    border-bottom: 2px solid blue;
+    border-top: 2px solid blue;
+}
+
+
+/* 1 - Flex */
+.flex {
+    color: #fff;
+    display: flex;
+    background-color: red;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+.flex p {
+    background-color: antiquewhite;
+    border: 1px solid black;
+    color: #000;
+}
+
+
+/* 2 - Flex Column */
+.flex-column {
+    color: #fff;
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+
+/* 3 - Wrap */
+.wrap {
+    display: flex;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+.box {
+    height: 40px;
+    width: 33%;
+    border: 1px solid red;
+    background-color: antiquewhite;
+}
+
+
+/* 4 - Justify Content */
+.center, 
+.space-around,
+.space-between,
+.end {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    height: 200px;
+}
+.center .box,
+.space-around .box,
+.space-between .box,
+.end .box {
+    width: 50px;
+}
+.center {
+    justify-content: center;    /*CENTER*/
+}
+.space-around {
+    justify-content: space-around;  /*space-around*/
+}
+.space-between {
+    justify-content: space-between;  /*space-between*/
+}
+.end {
+    justify-content: end;  /*end*/
+}
+
+
+/* 5 - Align Itens */
+.align-center, 
+.stretch,
+.flex-end {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    height: 200px;
+}
+.align-center .box,
+.stretch .box,
+.flex-end .box {
+    width: 50px;
+    border: 1px solid blue;
+    background-color: #000;
+}
+
+.align-center {
+    align-items: center;
+}
+.stretch {
+    align-items: stretch;
+}
+.stretch .box {
+    height: auto;
+}
+.flex-end {
+    align-items: flex-end;
+}
+
+
+/* 6 - gap */
+.gap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid green;
+    gap: 10px;
+}
+.gap .box {
+    background-color: rgb(13, 219, 150);
+    border: 1px solid green;
+    width: 32%;
+}
+
+/* 7 - Order */
+.order {
+    display: flex;
+    border: 1px solid red;
+}
+.order .box {
+    background-color: rgb(150, 127, 255);
+    width: 40px;
+}
+#one {
+    order: 1;
+}
+#two {
+    order: 2;
+}
+#three {
+    order: 3;
+}
+
+/* 8 - Grow */
+.grow {
+    display: flex;
+}
+.grow .box {
+    flex: 1;
+}
+.grow #big {
+    flex-grow: 2;
+}
+
+/* 9 - Basis */
+.basis {
+    display: flex;
+}
+.basis .box {
+    flex-basis: 30px;
+}
+.basis #big {
+    flex-grow: 2;
+}
+
+/* 10 - Shrink */
+.shrink {
+    display: flex;
+}
+.shrink .box {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 250px;
+    width: auto;
+}
+.shrink #small {
+    flex-shrink: 22;
+}
+
+/* 11 - Flex ShortHand */
+.flex-shorthand {
+    display: flex;
+}
+.flex-shorthand .box {
+    flex: 1 1 20px;
+    width: auto;
+}
+.flex-shorthand #different {
+    flex: 3 1 200px;
+}
+
+/* 12 - Auto Alinhamento */
+
+.auto-alignment {
+    border: 1px solid black;
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.auto-alignment #different {
+    align-self: center;
+}
