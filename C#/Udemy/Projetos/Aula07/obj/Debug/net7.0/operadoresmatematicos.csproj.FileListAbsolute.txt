@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\bin\Debug\net7.0\operadoresmatematicos.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\bin\Debug\net7.0\operadoresmatematicos.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\bin\Debug\net7.0\operadoresmatematicos.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\bin\Debug\net7.0\operadoresmatematicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\bin\Debug\net7.0\operadoresmatematicos.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\refint\operadoresmatematicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\operadoresmatematicos.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\operadoresmatematicos\obj\Debug\net7.0\ref\operadoresmatematicos.dll

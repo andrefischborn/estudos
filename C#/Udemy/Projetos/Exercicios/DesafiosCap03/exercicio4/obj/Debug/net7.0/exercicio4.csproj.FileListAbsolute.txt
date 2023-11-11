@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\bin\Debug\net7.0\exercicio4.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\bin\Debug\net7.0\exercicio4.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\bin\Debug\net7.0\exercicio4.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\bin\Debug\net7.0\exercicio4.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\bin\Debug\net7.0\exercicio4.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\refint\exercicio4.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\exercicio4.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio4\obj\Debug\net7.0\ref\exercicio4.dll

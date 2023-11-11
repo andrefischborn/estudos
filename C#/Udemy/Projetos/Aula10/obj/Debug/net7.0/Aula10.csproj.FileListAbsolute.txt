@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\bin\Debug\net7.0\Aula10.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\bin\Debug\net7.0\Aula10.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\bin\Debug\net7.0\Aula10.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\bin\Debug\net7.0\Aula10.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\bin\Debug\net7.0\Aula10.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\refint\Aula10.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\Aula10.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula10\obj\Debug\net7.0\ref\Aula10.dll

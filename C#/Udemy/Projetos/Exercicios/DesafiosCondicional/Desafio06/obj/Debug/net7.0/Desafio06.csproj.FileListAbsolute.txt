@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\bin\Debug\net7.0\Desafio06.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\bin\Debug\net7.0\Desafio06.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\bin\Debug\net7.0\Desafio06.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\bin\Debug\net7.0\Desafio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\bin\Debug\net7.0\Desafio06.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\refint\Desafio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\Desafio06.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosCondicional\Desafio06\obj\Debug\net7.0\ref\Desafio06.dll

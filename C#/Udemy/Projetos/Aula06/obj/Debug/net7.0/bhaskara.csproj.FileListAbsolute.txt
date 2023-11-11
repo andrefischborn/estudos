@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\bin\Debug\net7.0\bhaskara.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\bin\Debug\net7.0\bhaskara.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\bin\Debug\net7.0\bhaskara.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\bin\Debug\net7.0\bhaskara.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\bin\Debug\net7.0\bhaskara.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\refint\bhaskara.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\bhaskara.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\bhaskara\obj\Debug\net7.0\ref\bhaskara.dll

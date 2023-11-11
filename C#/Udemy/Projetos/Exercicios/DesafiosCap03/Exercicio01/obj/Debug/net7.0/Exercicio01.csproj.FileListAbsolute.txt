@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\bin\Debug\net7.0\Exercicio01.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\bin\Debug\net7.0\Exercicio01.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\bin\Debug\net7.0\Exercicio01.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\bin\Debug\net7.0\Exercicio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\bin\Debug\net7.0\Exercicio01.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\refint\Exercicio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\Exercicio01.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\Exercicio01\obj\Debug\net7.0\ref\Exercicio01.dll

@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\bin\Debug\net7.0\exercicio06.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\bin\Debug\net7.0\exercicio06.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\bin\Debug\net7.0\exercicio06.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\bin\Debug\net7.0\exercicio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\bin\Debug\net7.0\exercicio06.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\refint\exercicio06.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\exercicio06.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\Cap03\exercicio06\obj\Debug\net7.0\ref\exercicio06.dll

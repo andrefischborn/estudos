@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\bin\Debug\net7.0\DadosBasicos.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\bin\Debug\net7.0\DadosBasicos.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\bin\Debug\net7.0\DadosBasicos.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\bin\Debug\net7.0\DadosBasicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\bin\Debug\net7.0\DadosBasicos.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\refint\DadosBasicos.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\DadosBasicos.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\DadosBasicos\obj\Debug\net7.0\ref\DadosBasicos.dll

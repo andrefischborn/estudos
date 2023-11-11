@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\bin\Debug\net7.0\Aula14.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\bin\Debug\net7.0\Aula14.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\bin\Debug\net7.0\Aula14.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\bin\Debug\net7.0\Aula14.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\bin\Debug\net7.0\Aula14.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\refint\Aula14.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\Aula14.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula14\obj\Debug\net7.0\ref\Aula14.dll

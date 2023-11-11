@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\bin\Debug\net7.0\entradas.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\bin\Debug\net7.0\entradas.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\bin\Debug\net7.0\entradas.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\bin\Debug\net7.0\entradas.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\bin\Debug\net7.0\entradas.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\refint\entradas.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\entradas.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\entradas\obj\Debug\net7.0\ref\entradas.dll
