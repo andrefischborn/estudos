@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\bin\Debug\net7.0\Aula15.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\bin\Debug\net7.0\Aula15.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\bin\Debug\net7.0\Aula15.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\bin\Debug\net7.0\Aula15.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\bin\Debug\net7.0\Aula15.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\refint\Aula15.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\Aula15.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Aula15\obj\Debug\net7.0\ref\Aula15.dll

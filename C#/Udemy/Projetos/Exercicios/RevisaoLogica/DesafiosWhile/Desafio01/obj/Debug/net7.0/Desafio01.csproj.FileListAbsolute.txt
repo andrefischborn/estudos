@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\bin\Debug\net7.0\Desafio01.exe
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\bin\Debug\net7.0\Desafio01.deps.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\bin\Debug\net7.0\Desafio01.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\bin\Debug\net7.0\Desafio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\bin\Debug\net7.0\Desafio01.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\refint\Desafio01.dll
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.pdb
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\Desafio01.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Projetos\Exercicios\DesafiosWhile\Desafio01\obj\Debug\net7.0\ref\Desafio01.dll
