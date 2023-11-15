@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\bin\Debug\net7.0\Aula02.exe
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\bin\Debug\net7.0\Aula02.deps.json
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\bin\Debug\net7.0\Aula02.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\bin\Debug\net7.0\Aula02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\bin\Debug\net7.0\Aula02.pdb
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\refint\Aula02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.pdb
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\Aula02.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Aulas\Aula02\obj\Debug\net7.0\ref\Aula02.dll

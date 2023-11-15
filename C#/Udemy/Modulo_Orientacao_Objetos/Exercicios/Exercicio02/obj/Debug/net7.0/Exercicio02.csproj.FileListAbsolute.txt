@@ -1,0 +1,14 @@
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\bin\Debug\net7.0\Exercicio02.exe
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\bin\Debug\net7.0\Exercicio02.deps.json
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\bin\Debug\net7.0\Exercicio02.runtimeconfig.json
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\bin\Debug\net7.0\Exercicio02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\bin\Debug\net7.0\Exercicio02.pdb
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.AssemblyInfoInputs.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.AssemblyInfo.cs
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.csproj.CoreCompileInputs.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\refint\Exercicio02.dll
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.pdb
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\Exercicio02.genruntimeconfig.cache
+E:\Programação\Estudos\C#\Udemy\Modulo_Orientacao_Objetos\Exercicios\Exercicio02\obj\Debug\net7.0\ref\Exercicio02.dll
