@@ -8,6 +8,7 @@ Bem-vindo ao meu repositório de estudos iniciais na área da programação! Aqu
 
 - [ ] **Python:** Introdução à linguagem Python.
 - [ ] **JavaScript:** Explorando conceitos básicos de JavaScript.
+- [ ] **C#:** Estudando Orientação a Objetos.
 
 ### 2. Estruturas de Dados e Algoritmos
 
