@@ -1,6 +1,6 @@
 # Estudos Iniciais de Programação
 
-Bem-vindo ao meu repositório de estudos iniciais na área da programação! Aqui, compartilho meu progresso e aprendizado enquanto me aventuro no vasto mundo do desenvolvimento de software.
+Bem-vindo ao meu repositório de estudos iniciais na área da programação! Aqui, compartilho meu progresso e aprendizado enquanto realizo minha transição de carreira para a área do desenvolvimento.
 
 ## Tópicos de Estudo
 
