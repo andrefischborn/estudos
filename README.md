@@ -23,13 +23,8 @@ Bem-vindo ao meu repositório de estudos iniciais na área da programação! Aqu
 
 ## Projetos
 
-- [Projeto 1](/projetos/projeto1): Descrição breve do projeto.
-- [Projeto 2](/projetos/projeto2): Descrição breve do projeto.
+- [Projeto 1](/projetos/projeto1): Em breve um projeto público.
 
-## Recursos de Aprendizado
-
-- [Livro 1](/recursos/livro1): Livro recomendado para iniciantes.
-- [Tutorial 1](/recursos/tutorial1): Tutorial útil para iniciantes.
 
 ## Contribuições
 
