@@ -45,7 +45,3 @@ Sinta-se à vontade para contribuir, seja sugerindo melhorias, reportando proble
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
-
----
-
-Espero que este modelo seja um ponto de partida útil para o seu README. Sinta-se à vontade para personalizá-lo conforme necessário e adicionar mais seções à medida que o seu diretório de estudos evolui. Boa sorte com seus estudos na área da programação!
