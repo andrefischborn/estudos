@@ -1,0 +1,30 @@
+.container {
+  display: grid;
+  grid-template: auto auto / auto auto;
+  background-color: chocolate;
+  gap: 1rem;
+}
+
+.one {
+  background-color: aquamarine;
+  padding: 1rem;
+}
+
+.two {
+  background-color: bisque;
+  padding: 1rem;
+}
+
+.three {
+  background-color: blueviolet;
+  padding: 1rem;
+}
+
+/* Write your CSS code below to make the purple items size, grow and shrink like the green ones.*/
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto 400px minmax(200px, 500px);
+  grid-template-rows: 1fr 1fr 2fr;
+  grid-auto-rows: 50px;
+}

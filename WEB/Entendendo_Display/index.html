@@ -1,0 +1,51 @@
+<!-- CRIEI ESSE DOCUMENTO PARA ENTENDER A LÓGICA DO DISPLAY DO CSS -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .inline {
+            display: inline;
+            background-color: blue;
+
+            width: 100px; /* NÃO FUNCIONA ESSE ATRIBUTO NO INLINE!!! */
+            height: 100px; /* NÃO FUNCIONA ESSE ATRIBUTO NO INLINE!!! */
+        }
+        .block {
+            display: block;
+            background-color: red;
+            width: 150px; /* Se retirar esse limite de 150px, vai ocupar toda a linha tela  */
+            height: 150px;
+
+        }
+        .inline-block {
+            display: inline-block;
+            background-color: green;
+            width: 250px; /* Se retirar esse limite de 250px, vai ocupar apenas o tamanho do elemento  */
+            height: 150px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1 class="inline">DISPLAY 1</h1>
+        <h1 class="inline">DISPLAY INLINE 2</h1>
+        <h1 class="inline">DISPLAY 3</h1>
+    </div>
+    <div>
+        <h1 class="block">DISPLAY 1</h1>
+        <h1 class="block">DISPLAY BLOCK 2</h1>
+        <h1 class="block">DISPLAY 3</h1>
+    </div>
+    <div>
+        <h1 class="inline-block">DISPLAY 1</h1>
+        <h1 class="inline-block">DISPLAY 2</h1>
+        <h1 class="inline-block">DISPLAY 3</h1>
+    </div>
+</body>
+</html>
